@@ -9,11 +9,9 @@
 
 <p align="center">
   <a href="#Introduction">Introduction</a> •
-  <a href="#Tasks">Tasks</a> •
-  <a href="#Results">Results</a> •
-  <a href="#Comparisons">Comparisons</a> •
-  <a href="#Reference">Reference</a> •
-  <a href="#Questions">Questions</a>
+  <a href="#Method">Method</a> •
+  <a href="#Results Analysis and Comparisons">Results Analysis and Comparisons</a> •
+  <a href="#Reference">Reference</a> 
 </p>
 
 ___
@@ -25,3 +23,11 @@ ___
 
 <p align="center"><img src="https://i.ibb.co/jDr9C7X/VIEW-GEO-2-DYNAMIC-2.png" alt="VIEW-GEO-2-DYNAMIC-2" border="0"></a></p>
 <br>
+
+# Introduction
+
+# Method
+
+# Results Analysis and Comparisons
+
+# Reference
