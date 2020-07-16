@@ -19,7 +19,9 @@
 ___
 
 
-<img src="https://i.ibb.co/d5gFczN/BARE2.png" alt="BARE2" border="0"></a>
-<img src="https://i.ibb.co/khh9RnX/GEO-1-TYPICAL.png" alt="GEO-1-TYPICAL" border="0"></a>
-<img src="https://i.ibb.co/jDr9C7X/VIEW-GEO-2-DYNAMIC-2.png" alt="VIEW-GEO-2-DYNAMIC-2" border="0"></a>
+<p align="center"><img src="https://i.ibb.co/d5gFczN/BARE2.png" alt="BARE2" border="0"></a></p>
+
+<p align="center"><img src="https://i.ibb.co/khh9RnX/GEO-1-TYPICAL.png" alt="GEO-1-TYPICAL" border="0"></a></p>
+
+<p align="center"><img src="https://i.ibb.co/jDr9C7X/VIEW-GEO-2-DYNAMIC-2.png" alt="VIEW-GEO-2-DYNAMIC-2" border="0"></a></p>
 <br>
